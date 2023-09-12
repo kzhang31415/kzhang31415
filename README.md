@@ -1,4 +1,7 @@
-### Hi there 👋 I'm a first year at Carnegie Mellon University's School of Computer Science. 
+### Hi there 👋 I'm actually a physicist/mathematician masquerading as a computer scientist
+
+Languages: C++, JavaScript, C#, Java, C Swift, Python, HTML/CSS
+Technologies: Node, Express, LaTeX, Linux, JSON
 
 <!--
 **kzhang31415/kzhang31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
