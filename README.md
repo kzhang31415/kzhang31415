@@ -1,6 +1,6 @@
-### Hi there 👋 I'm actually a physicist/mathematician masquerading as a computer scientist
+### Hi there 👋 I'm actually a physics/math guy masquerading as a computer scientist
 
-Languages: C++, JavaScript, C#, Java, C Swift, Python, HTML/CSS
+Languages: C++, JavaScript, C#, Java, C Swift, Python, HTML/CSS <br>
 Technologies: Node, Express, LaTeX, Linux, JSON
 
 <!--
